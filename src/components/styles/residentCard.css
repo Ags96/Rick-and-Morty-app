@@ -5,6 +5,7 @@
     overflow: hidden;
     box-shadow: 0.2em 0.2em 0.5em #0009;
     transition: transform 400ms ease;
+    margin-bottom: 1em;
 }
 .resident:hover {
     transform: scale(1.05);
